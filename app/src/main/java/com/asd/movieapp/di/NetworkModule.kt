@@ -12,7 +12,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import java.util.concurrent.TimeUnit
 
-const val BASE_URL: String = "/api/driver/"
+const val BASE_URL: String = "https://api.themoviedb.org/3/"
 private const val TIME_OUT = 30L
 
 val NetworkModule = module {
