@@ -3,4 +3,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="dashboard_color">#1E1E1E</color>
+    <color name="text_secondary_color">#CACACA</color>
+    <color name="primary_color">#DCFC35</color>
 </resources>
